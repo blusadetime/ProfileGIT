@@ -1,8 +1,8 @@
 ## Olá, sou Francisco Victor criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/blusadetime">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blusadetime&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blusadetime&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blusadetime&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blusadetime&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Doca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +12,7 @@
   <img align="center" alt="Doca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Doca-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Doca-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Doca-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/885849788132778035/885860797249617921/998988086165897277">
+  <img align="right" alt="Doca-pic" height="150" style="border-radius:50px;" src="http://www.interativapantanal.com.br/assets/img/publicacoes/photo-1569277051793-783398dc36ff.jpg">
 </div>
   
   ##
